@@ -1,10 +1,11 @@
 
-
-function App() {
-  return (
-    <h1>Welcome</h1>
-
-  );
+import Chai from "./chai";
+function App(){
+    return(
+        <>
+        <Chai/>
+      
+       </>
+    );
 }
-
 export default App;
